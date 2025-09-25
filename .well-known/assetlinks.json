@@ -1,1 +1,9 @@
-[]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "uk.co.papajohns.ppjqg.debug.qa",
+    "sha256_cert_fingerprints":
+    ["06:7B:D1:A9:5F:51:A6:BF:63:67:D8:75:31:52:57:AC:FF:04:21:AB:6B:61:3E:5F:81:5D:1E:EB:10:33:81:57"]
+  }
+}]
